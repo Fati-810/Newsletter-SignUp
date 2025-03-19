@@ -58,7 +58,3 @@ app.post("/failure", function (req, res) {
 app.listen(3000, function () {
     console.log("server is running");
 });
-// 200a9b4452b2ab0d26ffd90e0ff77c90-us8
-// 480711ed14
-//new:efcec92b8d016d3632697d3aa349eece-us8
-// 480711ed14
