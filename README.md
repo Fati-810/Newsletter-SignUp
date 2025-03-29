@@ -2,7 +2,7 @@
 
 The Newsletter Signup website is a simple user registration form that allows visitors to subscribe to a newsletter by entering their name and email. It connects to an external email marketing service to store user information.
 
-# 🔹 Features:
+#  Features:
 
 ✔️ User Input Fields: Allows users to enter their first name, last name, and email.
 
@@ -15,7 +15,7 @@ The Newsletter Signup website is a simple user registration form that allows vis
 ✔️ Responsive Design: Works on different devices.
 
 
-# Technical Overview (Behind the Scenes):
+# Technical Overview: (Behind the Scenes)
 
 Frontend: Built with HTML, CSS, and Bootstrap for a clean design.
 
