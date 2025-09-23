@@ -4,15 +4,15 @@ The Newsletter Signup website is a simple user registration form that allows vis
 
 #  Features:
 
-✔️ User Input Fields: Allows users to enter their first name, last name, and email.
+📝  User Input Fields: Allows users to enter their first name, last name, and email.
 
-✔️ Form Submission: Sends user data to a backend for processing.
+📤  Form Submission: Sends user data to a backend for processing.
 
-✔️ Confirmation & Feedback: Displays a success or failure message after submission.
+✅  Confirmation & Feedback: Displays a success or failure message after submission.
 
-✔️ Backend Integration: Uses Node.js, Express, and Mailchimp.
+⚙️ Backend Integration: Uses Node.js, Express, and Mailchimp.
 
-✔️ Responsive Design: Works on different devices.
+📱 Responsive Design: Works on different devices.
 
 
 # Technical Overview: (Behind the Scenes)
