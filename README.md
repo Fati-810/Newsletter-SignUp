@@ -25,7 +25,7 @@ Database or API: Could be integrated with Mailchimp API or another mailing servi
 
 Hosting: Deployed on Render for backend support.
 
-# Preview:
+## Preview:
 https://newsletter-signup-apzn.onrender.com/
 
 ## Contact:
