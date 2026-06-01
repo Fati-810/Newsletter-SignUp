@@ -17,13 +17,13 @@ The Newsletter Signup website is a **simple user registration form** that allows
 
 ## Technical Overview: (Behind the Scenes)
 
-Frontend: Built with HTML, CSS, and Bootstrap for a clean design.
+**Frontend:** Built with HTML, CSS, and Bootstrap for a clean design.
 
-Backend: Uses Node.js and Express to handle form submissions.
+**Backend:** Uses Node.js and Express to handle form submissions.
 
-Database or API: Could be integrated with Mailchimp API or another mailing service.
+**Database or API:** Could be integrated with Mailchimp API or another mailing service.
 
-Hosting: Deployed on Render for backend support.
+**Hosting:** Deployed on Render for backend support.
 
 ## Preview:
 https://newsletter-signup-apzn.onrender.com/
@@ -31,9 +31,9 @@ https://newsletter-signup-apzn.onrender.com/
 ## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
-Developer: Fatimah Ali
-Website: fatimahdigitaledge.com
-GitHub: github.com/fati-810
+**Developer:** *Fatimah Ali*  
+**Website:** https://fatimahdigitaledge.com  
+**GitHub:** https://github.com/fati-810
 
 ## License:
 This project is for educational and portfolio purposes.
